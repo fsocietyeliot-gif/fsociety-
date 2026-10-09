@@ -1,3 +1,8 @@
+# fsociety script
+
+Скрипт на Python по мотивам сериала «Mr. Robot».
+
+```python
 import os
 import sys
 import time
